@@ -1,0 +1,15 @@
+{
+  "name": "linkedin-candidate-finder",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Recruiter sourcing. Find LinkedIn profiles matching role, skills, and location. Python, Node.js and cURL clients for the LinkedIn Candidate Finder on Apify, pay per result.",
+  "main": "linkedin_candidate_finder.mjs",
+  "scripts": {
+    "start": "node linkedin_candidate_finder.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/linkedin-candidate-finder/"
+}
