@@ -5,7 +5,7 @@ Find LinkedIn profiles matching recruiter requirements: role, skills, location, 
 **Run it on Apify:** [apify.com/themineworks/linkedin-candidate-finder](https://apify.com/themineworks/linkedin-candidate-finder)
 **Docs, FAQ and pricing:** [themineworks.com/actors/linkedin-candidate-finder](https://themineworks.com/actors/linkedin-candidate-finder/)
 
-**Price:** $3.00 per 1,000 candidates on Apify's free plan, down to $1.80 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $1.80 per 1,000 candidates on Apify's higher plans ($3.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -13,7 +13,7 @@ Find LinkedIn profiles matching recruiter requirements: role, skills, location, 
 * Optional target-company filtering
 * Name, headline, current title/company, and profile URL
 * Matched-skills list and a match-confidence score per candidate
-* Zero charge on unmatched searches
+* Searches with no match add no result charges
 
 ## Quick start
 
@@ -127,7 +127,7 @@ This actor is built for sourcing: you describe the role and requirements, and it
 
 ### What is the price?
 
-$0.003 per candidate returned. Nothing charged on failure.
+Pay per result: from $1.80 per 1,000 candidates on Apify's higher plans, $3.00 on the free plan, plus a $0.005 start fee per run. Failed results are never charged.
 
 ### Can I export the results to CSV or Excel?
 
